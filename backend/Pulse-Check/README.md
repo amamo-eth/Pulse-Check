@@ -39,7 +39,8 @@ The application uses in-memory storage and Python timers to manage monitor state
 
 ```bash
 git clone <repository-url>
-cd pulse-check-api
+cd backend
+cd Pulse-Check
 ```
 
 ### Create a Virtual Environment
